@@ -38,3 +38,5 @@ commid id, author info commit message, time of commit
 14. git checkout -b branchname.
 
 15. Merge - git checkout destination branch --> git merge source branch
+
+16. More features in git
