@@ -1,2 +1,2 @@
-# Sample-Project
-Simple project in java
+# Sample-Github
+Simple Github Repository 
